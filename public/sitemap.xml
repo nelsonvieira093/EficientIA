@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.eficientia.com.br/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.eficientia.com.br/sobre</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.eficientia.com.br/servicos</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.eficientia.com.br/cases</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.eficientia.com.br/blog</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.eficientia.com.br/contato</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+
+  <url><loc>https://www.eficientia.com.br/projetos/erp-eficientia</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos/gps-tec</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos/portal-corporativo</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos/dashboard-financeiro</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos/plataforma-atendimento</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos/sistema-vistoria-remota</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos/automacoes-com-ia</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/projetos/marketplace-b2b</loc><priority>0.6</priority></url>
+
+  <url><loc>https://www.eficientia.com.br/cases/gps-tec</loc><priority>0.7</priority></url>
+  <url><loc>https://www.eficientia.com.br/cases/erp-eficientia</loc><priority>0.7</priority></url>
+  <url><loc>https://www.eficientia.com.br/cases/grupo-vantage-logistica</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/cases/orbita-saude</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/cases/fintera-pagamentos</loc><priority>0.6</priority></url>
+  <url><loc>https://www.eficientia.com.br/cases/construtora-horizonte</loc><priority>0.6</priority></url>
+
+  <url><loc>https://www.eficientia.com.br/blog/tendencias-de-tecnologia-para-empresas</loc><priority>0.5</priority></url>
+  <url><loc>https://www.eficientia.com.br/blog/como-a-ia-esta-mudando-o-desenvolvimento-de-software</loc><priority>0.5</priority></url>
+  <url><loc>https://www.eficientia.com.br/blog/erp-sob-medida-vs-erp-de-prateleira</loc><priority>0.5</priority></url>
+  <url><loc>https://www.eficientia.com.br/blog/guia-de-migracao-para-cloud</loc><priority>0.5</priority></url>
+  <url><loc>https://www.eficientia.com.br/blog/automacao-de-processos-por-onde-comecar</loc><priority>0.5</priority></url>
+  <url><loc>https://www.eficientia.com.br/blog/arquitetura-de-microsservicos-quando-vale-a-pena</loc><priority>0.5</priority></url>
+  <url><loc>https://www.eficientia.com.br/blog/dados-como-vantagem-competitiva</loc><priority>0.5</priority></url>
+
+  <url><loc>https://www.eficientia.com.br/privacidade</loc><priority>0.3</priority></url>
+  <url><loc>https://www.eficientia.com.br/termos</loc><priority>0.3</priority></url>
+</urlset>
