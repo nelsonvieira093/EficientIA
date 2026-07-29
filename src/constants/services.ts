@@ -12,6 +12,8 @@ import {
   ShieldCheck,
   Search,
   BarChart3,
+  Database,
+  Server,
 } from 'lucide-react'
 import type { Service } from '@/types'
 
@@ -213,6 +215,40 @@ export const SERVICES: Service[] = [
       'Controle de acesso e permissões',
       'Criptografia e boas práticas de segurança',
       'Alertas e monitoramento de indicadores',
+    ],
+  },
+  {
+    slug: 'sustentacao-erp-sankhya',
+    icon: Database,
+    title: 'Sustentação ERP Sankhya',
+    shortDescription:
+      'Suporte especializado ao ERP Sankhya nas áreas financeira, fiscal, compras e vendas.',
+    description:
+      'Atuamos na sustentação do ERP Sankhya com atendimento de Nível 3, tratando incidentes críticos e corrigindo erros em notas, pedidos e integrações, além de parametrizar o sistema para as regras reais do negócio.',
+    capabilities: [
+      'Suporte financeiro, fiscal, compras e vendas',
+      'Tratamento de incidentes críticos (Nível 3)',
+      'Queries SQL avançadas (SELECT, JOIN, WHERE) em tabelas como TGFCAB, TGFITE e TGFPAR',
+      'Relatórios e painéis de margem, CBENEF e fornecedor com exportação automatizada',
+      'Parametrização de TOP, regras fiscais e tabelas de preço',
+      'Gerenciamento técnico de integrações via API',
+    ],
+  },
+  {
+    slug: 'administracao-ti-infraestrutura',
+    icon: Server,
+    title: 'Administração de TI & Infraestrutura',
+    shortDescription:
+      'Administração de nuvem, redes e suporte técnico completo, do Microsoft 365 ao hardware físico.',
+    description:
+      'Cuidamos da infraestrutura de TI de ponta a ponta: identidades e segurança no ecossistema Microsoft 365, redes corporativas e suporte técnico local e remoto com SLA.',
+    capabilities: [
+      'Microsoft 365: usuários, e-mails, Entra ID e portal Azure',
+      'Segurança e colaboração: Microsoft 365 Defender, Purview, SharePoint, OneDrive e Teams',
+      'Suporte de TI N1, N2 e N3, local e remoto (Anydesk), com SLA',
+      'Instalação e parametrização de redes Wi-Fi corporativas',
+      'Ciclo de vida de hardware: montagem, upgrades, formatação e restauração',
+      'Configuração de periféricos (headsets, impressoras, coletores)',
     ],
   },
 ]
